@@ -11,3 +11,4 @@
 ## Découverte de la bibliothèque `requests`
 
 - Installer **requests** : `pip install requests`
+- Insatller **Beautiful Soup** : `pip install beautifulsoup4`
